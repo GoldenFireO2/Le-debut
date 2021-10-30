@@ -1,0 +1,45 @@
+
+body{
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
+
+p {
+  font-size: 25px;
+  color: red;
+}
+
+h1{
+  color: blue;
+  margin-left: 25px;
+}
+
+.div1{
+  font-size: 45px;
+  text-align:center;
+}
+
+.lien1{
+  color: blue;
+  text-align: center;
+}
+
+.lien2{
+  color: red;
+  text-align: center;
+}
+
+.block{
+  display: flex;
+  margin-top: 25px;
+}
+
+img{
+  width:150px;
+}
+
+.titre{
+  text-decoration: underline;
+  font-size: 25px;
+}
